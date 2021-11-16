@@ -1,0 +1,3 @@
+Criação do convex hull utilizando o método do quick hull.
+
+Objetivo: Gerar o fecho convexo dado um conjunto de pontos.
