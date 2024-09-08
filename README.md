@@ -1,7 +1,7 @@
 
 ## Conteúdo:
 
-This repository showcases various optimization techniques applied to common computational geometry problems, such as finding the shortest distance between a pair of points, line intersections, and constructing convex hulls. It includes implementations of algorithms like Divide and Conquer, Graham Scan, Quick Hull, and Convex Hull, all developed using C# within the Unity Engine. The source codes are neatly organized in folders, making it easy to explore and understand each method.
+This repository showcases various optimization techniques applied to common computational geometry problems, such as finding the <b>shortest distance between a pair of points, line intersections, and constructing convex hulls.</b> It includes implementations of algorithms like <b>Divide and Conquer, Graham Scan, Quick Hull, and Convex Hull, all developed using C# within the Unity Engine.</b> The source codes are neatly organized in folders, making it easy to explore and understand each method.
 
 <b>Highlights:</b>
 
